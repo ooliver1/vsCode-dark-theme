@@ -4,6 +4,11 @@
     "description": "Cika dark purple, red, black theme for Visual Studio Code",
     "author": "Aleksandar Popovic",
     "version": "1.1.0",
+    "icon": "./images/icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/drcika/vsCode-dark-theme"
+    },
     "publisher": "cika",
     "engines": {
         "vscode": "^1.26.0"
