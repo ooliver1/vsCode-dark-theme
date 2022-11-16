@@ -2,56 +2,57 @@
 	"name": "Cika Red",
 	"type": "dark",
 	"colors": {
-		// bg1 #0c0000 bg2 #200000 bg3 #41000
-		// fg2 ff0000
-		//
-		"editor.background": "#050000",
-		"peekViewEditor.background": "#050000",
-		"editorGroupHeader.tabsBackground": "#050000",
-		"titleBar.activeBackground": "#050000",
-		"titleBar.inactiveBackground": "#050000",
-		"tab.inactiveBackground": "#050000",
-		"tab.border": "#050000",
-		"activityBar.background": "#050000",
-		"sideBar.background": "#050000",
-		"statusBar.background": "#050000",
-		"statusBar.noFolderBackground": "#050000",
-		"dropdown.background": "#050000",
-		"input.background": "#050000",
-		//
-		"sideBar.border": "#200000",
-		"focusBorder": "#200000",
-		"dropdown.border": "#200000",
-		"list.inactiveSelectionBackground": "#200000",
-		"list.hoverBackground": "#200000",
-		//
-		"editor.lineHighlightBackground": "#410000",
-		"editorIndentGuide.background": "#410000",
-		"editorHoverWidget.background": "#410000",
-		"editorGroup.border": "#410000",
-		"editorWidget.background": "#410000",
-		"editorSuggestWidget.background": "#410000",
-		"editorSuggestWidget.border": "#410000",
-		"editorHoverWidget.border": "#410000",
-		"tab.activeBackground": "#410000",
-		"sideBarSectionHeader.background": "#410000",
-		"editorLineNumber.foreground": "#410000",
-		"scrollbarSlider.background": "#410000",
-		"scrollbarSlider.hoverBackground": "#410000",
-		"scrollbarSlider.activeBackground": "#410000",
-		"list.activeSelectionBackground": "#410000",
-		"panel.border": "#410000",
-		"activityBar.inactiveForeground": "#410000",
-		//
-		"activityBarBadge.background": "#ff0000",
-		"tab.activeBorder": "#ff0000",
-		//
-		"editorLineNumber.activeForeground": "#ffafaf",
-		"progressBar.background": "#ffafaf",
-		"selection.background": "#ffafaf",
-		//
-		"foreground": "#ddd",
-	},
+        // bg1 #0c0000 bg2 #200000 bg3 #41000
+        // fg2 ff0000
+        //
+        "editor.background": "#050000",
+        "peekViewEditor.background": "#050000",
+        "editorGroupHeader.tabsBackground": "#050000",
+        "titleBar.activeBackground": "#050000",
+        "titleBar.inactiveBackground": "#050000",
+        "tab.inactiveBackground": "#050000",
+        "tab.border": "#050000",
+        "activityBar.background": "#050000",
+        "sideBar.background": "#050000",
+        "statusBar.background": "#050000",
+        "statusBar.noFolderBackground": "#050000",
+        "dropdown.background": "#050000",
+        "input.background": "#050000",
+        //
+        "sideBar.border": "#200000",
+        "focusBorder": "#200000",
+        "dropdown.border": "#200000",
+        "list.inactiveSelectionBackground": "#200000",
+        "list.hoverBackground": "#200000",
+        //
+        "editor.lineHighlightBackground": "#410000",
+        "editorIndentGuide.background": "#410000",
+        "editorHoverWidget.background": "#410000",
+        "editorGroup.border": "#410000",
+        "editorWidget.background": "#410000",
+        "editorSuggestWidget.background": "#410000",
+        "editorSuggestWidget.border": "#410000",
+        "editorHoverWidget.border": "#410000",
+        "tab.activeBackground": "#410000",
+        "sideBarSectionHeader.background": "#410000",
+        "editorLineNumber.foreground": "#410000",
+        "scrollbarSlider.background": "#410000",
+        "scrollbarSlider.hoverBackground": "#410000",
+        "scrollbarSlider.activeBackground": "#410000",
+        "list.activeSelectionBackground": "#410000",
+        "panel.border": "#410000",
+        "activityBar.inactiveForeground": "#410000",
+        "editorInlayHint.background": "#410000",
+        //
+        "activityBarBadge.background": "#ff0000",
+        "tab.activeBorder": "#ff0000",
+        //
+        "editorLineNumber.activeForeground": "#ffafaf",
+        "progressBar.background": "#ffafaf",
+        "selection.background": "#ffafaf",
+        //
+        "foreground": "#ddd",
+    },
 	"tokenColors": [
 		{
 			"settings": {

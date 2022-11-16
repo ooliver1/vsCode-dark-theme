@@ -28,6 +28,7 @@
     "editorSuggestWidget.background": "#001f3f",
     "editorSuggestWidget.border": "#001f3f",
     "editorWidget.background": "#001f3f",
+    "editorInlayHint.background": "#001f3f",
     //
     "editorLineNumber.foreground": "#0063a5a6",
     "editorIndentGuide.activeBackground": "#0063a5a6",
