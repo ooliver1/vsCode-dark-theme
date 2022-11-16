@@ -12,7 +12,6 @@
     "activityBar.foreground": "#aaa",
     "panelTitle.activeBorder": "#aaa",
     "panelTitle.activeForeground": "#aaa",
-    "editorInlayHint.foreground": "#aaa",
     //
     "panelTitle.inactiveForeground": "#333",
     "editor.lineHighlightBackground": "#333",
