@@ -2,12 +2,12 @@
     "name": "cika",
     "displayName": "Cika dark purple, red, blue, black Theme",
     "description": "Cika dark purple, red, blue, black theme for Visual Studio Code",
-    "author": "Aleksandar Popovic",
+    "author": "Aleksandar Popovic & Oliver Wilkes",
     "version": "1.2.0",
     "icon": "icon.png",
     "repository": {
         "type": "git",
-        "url": "https://github.com/drcika/vsCode-dark-theme"
+        "url": "https://github.com/ooliver1/vsCode-dark-theme"
     },
     "publisher": "cika",
     "engines": {
