@@ -1,6 +1,7 @@
 {
 	"name": "Cika Purple",
 	"type": "dark",
+	"semanticHighlighting": true,
 	"colors": {
 		// bg1 #07000c bg2 #160029 bg3 #240043
 		//

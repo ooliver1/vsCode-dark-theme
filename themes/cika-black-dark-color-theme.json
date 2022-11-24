@@ -1,6 +1,7 @@
 {
   "name": "Cika",
   "type": "dark",
+  "semanticHighlighting": true,
   "colors": {
     //
     "foreground": "#aaa",
@@ -54,7 +55,7 @@
     "statusBar.noFolderBackground": "#000",
     "dropdown.background": "#000",
     "input.background": "#000",
-    "tab.activeBackground": "#000",
+    "tab.activeBackground": "#000"
     //
   },
   "tokenColors": [
@@ -64,7 +65,7 @@
         "string.comment",
         "punctuation.definition.comment",
         "string.quoted.docstring.multi",
-        "string.quoted.docstring.multi storage.type.string",
+        "string.quoted.docstring.multi storage.type.string"
       ],
       "settings": {
         "foreground": "#5c6370",
@@ -80,7 +81,7 @@
         "punctuation.definition.template-expression.end.ts",
         "string.template.js",
         "meta.template.expression.js",
-        "string.embedded",
+        "string.embedded"
       ],
       "settings": {
         "foreground": "#98c379"
@@ -102,7 +103,7 @@
         "keyword",
         "keyword.operator.logical",
         "keyword.operator.constructor",
-        "storage",
+        "storage"
       ],
       "settings": {
         "foreground": "#FFD14A"
@@ -159,7 +160,7 @@
     {
       "scope": "variable.parameter",
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "italic"
         // "foreground": "#d19a66"
       }
     },
@@ -169,7 +170,7 @@
       "scope": [
         "source.json",
         "support.dictionary.json",
-        "support.type.property-name.json",
+        "support.type.property-name.json"
       ],
       "settings": {
         "foreground": "#ddd"
@@ -191,9 +192,7 @@
     // HTML ----------------------------------------------------------------------
     {
       "name": "[HTML] - Entity",
-      "scope": [
-        "entity.other"
-      ],
+      "scope": ["entity.other"],
       "settings": {
         "foreground": "#8df"
       }
@@ -213,10 +212,7 @@
     },
     {
       "name": "[HTML] - Keywords",
-      "scope": [
-        "punctuation.definition.keyword",
-        "keyword.control"
-      ],
+      "scope": ["punctuation.definition.keyword", "keyword.control"],
       "settings": {
         "foreground": "#FFD14A"
       }
@@ -230,10 +226,7 @@
     },
     {
       "name": "[HTML] - Meta tags",
-      "scope": [
-        "meta.tag.block.any.html",
-        "meta.tag.inline.any.html"
-      ],
+      "scope": ["meta.tag.block.any.html", "meta.tag.inline.any.html"],
       "settings": {
         "foreground": "#00AEFF"
       }
@@ -277,18 +270,14 @@
     },
     {
       "name": "[CSS] - Hex hex",
-      "scope": [
-        "punctuation.definition.constant.css"
-      ],
+      "scope": ["punctuation.definition.constant.css"],
       "settings": {
         "foreground": "#a8f"
       }
     },
     {
       "name": "[CSS] - keys",
-      "scope": [
-        "support.type.property-name.css"
-      ],
+      "scope": ["support.type.property-name.css"],
       "settings": {
         "foreground": "#ddd"
       }
@@ -312,36 +301,28 @@
     },
     {
       "name": "[CSS] - Punctiation",
-      "scope": [
-        "punctuation.definition.entity.css"
-      ],
+      "scope": ["punctuation.definition.entity.css"],
       "settings": {
         "foreground": "#00AEFF"
       }
     },
     {
       "name": "[CSS] - ID hastags",
-      "scope": [
-        "entity.other.attribute-name.pseudo-element.css"
-      ],
+      "scope": ["entity.other.attribute-name.pseudo-element.css"],
       "settings": {
         "foreground": "#00AEFF"
       }
     },
     {
       "name": "[CSS] - support misc function",
-      "scope": [
-        "support.function.misc.scss"
-      ],
+      "scope": ["support.function.misc.scss"],
       "settings": {
         "foreground": "#a8f"
       }
     },
     {
       "name": "[CSS] - ID Selector",
-      "scope": [
-        "entity.other.attribute-name.id.css"
-      ],
+      "scope": ["entity.other.attribute-name.id.css"],
       "settings": {
         "foreground": "#8df"
       }
@@ -366,19 +347,14 @@
     },
     {
       "name": "[CSS] - Constant",
-      "scope": [
-        "source.stylus constant",
-        "source.css constant"
-      ],
+      "scope": ["source.stylus constant", "source.css constant"],
       "settings": {
         "foreground": "#a8f"
       }
     },
     {
       "name": "[CSS] - support constant",
-      "scope": [
-        "support.constant.property-value.css"
-      ],
+      "scope": ["support.constant.property-value.css"],
       "settings": {
         "foreground": "#FFD14A"
       }
@@ -415,14 +391,11 @@
     },
     {
       "name": "[CSS] - Variable",
-      "scope": [
-        "source.css variable",
-        "source.stylus variable"
-      ],
+      "scope": ["source.css variable", "source.stylus variable"],
       "settings": {
         "foreground": "#FFD14A"
       }
-    },
+    }
     // ----------------------------------------------------------------------
   ]
 }

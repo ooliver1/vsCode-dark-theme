@@ -1,6 +1,7 @@
 {
 	"name": "Cika Red",
 	"type": "dark",
+	"semanticHighlighting": true,
 	"colors": {
 		// bg1 #0c0000 bg2 #200000 bg3 #41000
 		// fg2 ff0000
